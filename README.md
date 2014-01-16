@@ -2,7 +2,15 @@
 
 An Applescript-based Automator Service that reminds you to come back to a URL in an hour. That's it.
 
-# License
+## Installation
+
+After downloading the repo, open the `.workflow` folder in Finder. That should do it?
+
+## Usage
+
+Any time you encounter a URL in OS X, you **should** be able to right-click it and a "Remind me in an hour" option will be available. This is especially useful in the URL bar in Safari.
+
+## License
 
 Copyright 2014 Bradley Grzesiak
 
